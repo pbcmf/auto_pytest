@@ -1,4 +1,4 @@
-from pricer.simple_func import simple_fn
+from auto_pytest.pricer.simple_func import simple_fn
 
 
 def test_simple_fn():
